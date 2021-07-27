@@ -1,0 +1,60 @@
+
+‹
+java:S1319["pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ö·¤ûÿÿÿÿ
+‡
+java:S1319€"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÍÑ¹
+j
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(«æô¬úÿÿÿÿ
+c
+java:S2095Á"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095G"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+c
+java:S2095…"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095`"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+^
+java:S2095„"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—‰˜
+c
+java:S2095œ"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+c
+java:S2095Ù"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(è®¼†ûÿÿÿÿ
+b
+java:S2095~"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+]
+java:S2095f"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—‰˜
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+^
+java:S2095 "GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—‰˜
+k
+java:S2095í"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(«æô¬úÿÿÿÿ
+c
+java:S2095ß"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(è®¼†ûÿÿÿÿ
+^
+java:S2095‰"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—‰˜
+j
+java:S2095K"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(«æô¬úÿÿÿÿ
+
+java:S1192c"dDefine a constant instead of duplicating this literal "SELECT * FROM users WHERE userID = " 3 times.(¥Ëîûÿÿÿÿ
+E
+java:S5411*"*Use the primitive boolean expression here.(Õ¤Œşÿÿÿÿ
+E
+java:S5411+"*Use the primitive boolean expression here.(§ÇÜÚüÿÿÿÿ
+Z
+java:S2147="DCombine this catch with the one at line 59, which has the same body.(”ı¾
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Í×ğıùÿÿÿÿ
+X
+java:S1854G"=Remove this useless assignment to local variable "statement".(é°Áµşÿÿÿÿ
+r
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(¥Ëîûÿÿÿÿ
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(·°Úèùÿÿÿÿ
+\
+java:S2147·"ECombine this catch with the one at line 181, which has the same body.(”ı¾
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(¡Ï³÷ûÿÿÿÿ
+T	java:S106ã"9Replace this use of System.out or System.err by a logger.(İùûşúÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÅË½
+I
+java:S1481G".Remove this unused "statement" local variable.(é°Áµşÿÿÿÿ

@@ -1,0 +1,22 @@
+
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿ
+]
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(³«¼
+v
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "con".(æõÿ›ûÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ø÷²¯şÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¿¨Ã€ùÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "stmt".(íñéşÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÖØ¸Äüÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¥ùÚ¨ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶óˆüÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÓÏ€é
+D
+java:S1481")Remove this unused "stmt" local variable.(íñéşÿÿÿÿ

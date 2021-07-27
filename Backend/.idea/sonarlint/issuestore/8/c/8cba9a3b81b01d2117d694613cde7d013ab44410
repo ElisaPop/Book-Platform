@@ -1,0 +1,28 @@
+
+‹
+java:S1319&"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(®ÀõØøÿÿÿÿ
+b
+java:S2095+"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(«æô¬úÿÿÿÿ
+j
+java:S2095_"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(«æô¬úÿÿÿÿ
+b
+java:S2095["GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
+b
+java:S2095I"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
+]
+java:S20951"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—‰˜Ž
+P
+java:S1128":Remove this unused import 'javax.swing.plaf.nimbus.State'.(ðÒ´Ò
+X
+java:S1854"=Remove this useless assignment to local variable "statement".(é°Áµþÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ãÇ„–
+X
+java:S1854["=Remove this useless assignment to local variable "statement".(é°Áµþÿÿÿÿ
+I
+java:S1481".Remove this unused "statement" local variable.(é°Áµþÿÿÿÿ
+I
+java:S1481[".Remove this unused "statement" local variable.(é°Áµþÿÿÿÿ

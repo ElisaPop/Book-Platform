@@ -1,0 +1,65 @@
+
+‹
+java:S1319+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(·ÆÅÇşÿÿÿÿ
+‡
+java:S1319•"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ù¯†¬
+Œ
+java:S1319¯"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(­é¯Óùÿÿÿÿ
+‡
+java:S1319É"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ŞÊõ—
+Œ
+java:S1319ã"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ñß‰ùÿÿÿÿ
+c
+java:S2095³"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+c
+java:S2095™"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+^
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—‰˜
+c
+java:S2095Í"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+c
+java:S2095ç"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+]
+java:S2095T"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—‰˜
+b
+java:S20950"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095l"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095~"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+]
+java:S20956"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—‰˜
+^
+java:S2095·"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—‰˜
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+k
+java:S2095ƒ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(«æô¬úÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(«æô¬úÿÿÿÿ
+b
+java:S2095N"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+^
+java:S2095Ñ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—‰˜
+^
+java:S2095ë"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—‰˜
+f
+java:S11923"KDefine a constant instead of duplicating this literal " LIMIT 50;" 3 times.(Ì¿‰êûÿÿÿÿ
+C
+java:S1128"(Remove this unused import 'entity.User'.(Ï£Šûıÿÿÿÿ
+A
+java:S1128"+Remove this unused import 'entity.BookTag'.(ÿÊ©ä
+=
+java:S1128"'Remove this unused import 'entity.Tag'.( î–
+D
+java:S1128".Remove this unused import 'utils.CryptoUtils'.(úÎ¶™
+X
+java:S1854"=Remove this useless assignment to local variable "statement".(é°Áµşÿÿÿÿ
+q
+java:S2159Q"VRemove this call to "equals"; comparisons between unrelated types always return false.(Ì¿‰êûÿÿÿÿ
+X
+java:S1854~"=Remove this useless assignment to local variable "statement".(é°Áµşÿÿÿÿ
+I
+java:S1481".Remove this unused "statement" local variable.(é°Áµşÿÿÿÿ
+I
+java:S1481~".Remove this unused "statement" local variable.(é°Áµşÿÿÿÿ
